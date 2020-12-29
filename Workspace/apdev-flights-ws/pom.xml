@@ -26,7 +26,6 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-						<uri>https://anypoint.mulesoft.com/</uri>
 						<muleVersion>${app.runtime}</muleVersion>
 						<username>${username}</username>
 						<password>${password}</password>
@@ -34,8 +33,6 @@
 						<environment>Sandbox</environment>
 						<workerType>${workerType}</workerType>
 						<workers>1</workers>
-						<objectStoreV2>true</objectStoreV2>
-						<region>${region}</region>
 					</cloudHubDeployment>
 				</configuration>
 			</plugin>
