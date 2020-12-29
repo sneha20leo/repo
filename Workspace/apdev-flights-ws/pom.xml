@@ -17,6 +17,7 @@
 		<workerType>Micro</workerType>
 		<region>us-west-2</region>
 	</properties>
+	
 	<build>
 		<plugins>
 			<plugin>
