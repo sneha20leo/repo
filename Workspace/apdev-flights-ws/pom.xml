@@ -13,8 +13,8 @@
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 		<username>sneha20leo2020</username>
 		<password>Ins@tiable1</password>
-		<project.artifactId>anypoint.credentials</project.artifactId>
-		<workerType>1</workerType>
+		<project.artifactId>apdev-flights-ws</project.artifactId>
+		<workerType>Micro</workerType>
 		<region>us-west-2</region>
 	</properties>
 	<build>
