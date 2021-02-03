@@ -36,12 +36,12 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>3.3.2</version>
+				<version>${mule.maven.plugin.version}</version>
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.2.2</muleVersion>
+						<muleVersion>4.3.0</muleVersion>
 						<username>sneha2021</username>
 						<password>Ins@tiable1</password>
 						<applicationName>training-american-ws-sneha2021</applicationName>
