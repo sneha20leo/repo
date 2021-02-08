@@ -50,6 +50,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
+						<objectStoreV2>true</objectStoreV2>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.3.0</muleVersion>
 						<username>sneha2021</username>
