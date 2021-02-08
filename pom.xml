@@ -44,7 +44,7 @@
 						<muleVersion>4.3.0</muleVersion>
 						<username>sneha2021</username>
 						<password>Ins@tiable1</password>
-						<applicationName>training-american-ws-sneha2021</applicationName>
+						<applicationName>training-american-ws-sneha2021-Feb</applicationName>
 						<environment>Sandbox</environment>
 						<workerType>MICRO</workerType>
 						<properties>
